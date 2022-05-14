@@ -26,3 +26,14 @@
 [4] Look in the folder that is made with your script name.
 [5] Finished!!
 ```
+
+---
+
+## Features 
+```ini
+[1] Make A Basic Script
+[2] Make A Script With Nui
+```
+ALL TEMPLATES ARE MADE IN LUA
+
+make a issue if you want to have something added like typescript support or javascript template
