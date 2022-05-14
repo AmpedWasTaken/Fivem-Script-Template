@@ -1,5 +1,8 @@
 <h2 align="center">
-  <img alt="logo" src="https://i.imgur.com/6eeF47i.png" width="600" heigth="200" />
+  <!-- <img alt="logo" src="https://i.imgur.com/6eeF47i.png" width="600" heigth="200" /> -->
+  <!-- add a video -->
+  <video width="600" height="200" controls>
+    <source src="https://i.imgur.com/1QVTOrH.mp4" type="video/mp4">
 </h2>
 
 ---
