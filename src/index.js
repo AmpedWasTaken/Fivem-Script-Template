@@ -23,7 +23,7 @@ escrow_ignore {
     'config/config.lua'
 }
 `;
-fxmanifestnui = `
+const fxmanifestnui = `
 description 'Made With Fivem-Script-Template by Amped'
 
 fx_version 'cerulean'
@@ -107,26 +107,18 @@ const readline = require('readline').createInterface({
 readline.question('Type> ', type => {
     if (type === "1") {
         readline.question('What is the name of your script? ', (answer) => {
-            // console.log(`Hello ${answer}`);
-            // create folder and file
             fs.mkdir(answer, (err) => {
                 if (err) {
                     console.log(err);
                 } else {
-                    // fs.mkdir(`/${answer}/client`);
-                    // fs.mkdir(`/${answer}/server`);
-                    // fs.mkdir(`/${answer}/config`);
-                    // make a folder in the script folder
                     fs.mkdir(`${answer}/client`, (err) => {
                         if (err) {
                             console.log(err);
                         } else {
-                            // make a folder in the script folder
                             fs.mkdir(`${answer}/server`, (err) => {
                                 if (err) {
                                     console.log(err);
                                 } else {
-                                    // make a folder in the script folder
                                     fs.mkdir(`${answer}/config`, (err) => {
                                         if (err) {
                                             console.log(err);
@@ -160,7 +152,6 @@ readline.question('Type> ', type => {
                                                     console.log('Successfully created server.lua');
                                                 }
                                             });
-                                            // make
                                         }
                                     });
                                 }
