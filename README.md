@@ -4,7 +4,6 @@
   <video width="600" height="200" controls>
     <source src="https://i.imgur.com/1QVTOrH.mp4" type="video/mp4">
     Your browser does not support the video tag.
-  </video>
 </h2>
 
 ---
