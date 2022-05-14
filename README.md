@@ -14,15 +14,15 @@
   </br>
 </p>
 
----
+
+
+
 
 ## How to use
 ```ini
-[1] Open the install.bat to install all the dependencies needed for the CLI.
-[2] Open the run.bat to start the converter.
-[3] Make a choice between 1 and 2 to convert your script.
-[4] Give the path of the file.
-[5] Open output.lua and there is the converted file.
-[6] Finished!!
+[1] Open the run.bat to start the template maker.
+[2] Choose what type of script you want.
+[3] Choose your script name.
+[4] Look in the folder that is made with your script name.
+[5] Finished!!
 ```
----
