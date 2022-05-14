@@ -1,9 +1,9 @@
 <h2 align="center">
-  <!-- <img alt="logo" src="https://i.imgur.com/6eeF47i.png" width="600" heigth="200" /> -->
+  <img alt="logo" src="https://cdn.discordapp.com/attachments/832173112078237739/975074039917850664/ezgif-3-79a368d82f.gif" width="600" heigth="200" />
   <!-- add a video -->
-  <video width="600" height="200" controls>
+  <!-- <video width="600" height="200" controls>
     <source src="https://i.imgur.com/1QVTOrH.mp4" type="video/mp4">
-    Your browser does not support the video tag.
+    Your browser does not support the video tag. -->
 </h2>
 
 ---
