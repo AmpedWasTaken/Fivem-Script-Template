@@ -1,4 +1,8 @@
-# Fivem-Script-Template
+<h2 align="center">
+  <img alt="logo" src="https://i.imgur.com/6eeF47i.png" width="300" heigth="200" />
+</h2>
+
+---
 <p align="center">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AmpedScripts/Fivem-Script-Template">
   <img src="https://img.shields.io/github/issues/AmpedScripts/Fivem-Script-Template">
