@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img alt="logo" src="https://i.imgur.com/6eeF47i.png" width="500" heigth="200" />
+  <img alt="logo" src="https://share.creavite.co/dNqVzzS98p0HzSfY.gif" width="500" heigth="200" />
 </h2>
 
 ---
