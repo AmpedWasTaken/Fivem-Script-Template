@@ -1,5 +1,5 @@
+# Fivem-Script-Template
 <p align="center">
-  # Fivem-Script-Template
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AmpedScripts/Fivem-Script-Template">
   <img src="https://img.shields.io/github/issues/AmpedScripts/Fivem-Script-Template">
   <img src="https://img.shields.io/github/issues-closed-raw/AmpedScripts/Fivem-Script-Template">
