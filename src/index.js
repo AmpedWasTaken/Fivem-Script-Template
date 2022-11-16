@@ -8,11 +8,11 @@ games { 'rdr3', 'gta5' }
 lua54 'yes'
 
 client_scripts {
-    'client/main.lua'
+    'client/client.lua'
 }
 
 server_scripts {
-    'server/main.lua'
+    'server/server.lua'
 }
 
 shared_scripts {
@@ -36,11 +36,11 @@ ui_page 'src/html/index.html'
 
 
 client_scripts {
-    'client/main.lua'
+    'client/client.lua'
 }
 
 server_scripts {
-    'server/main.lua'
+    'server/server.lua'
 }
 
 shared_scripts {
